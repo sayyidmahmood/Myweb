@@ -385,8 +385,11 @@ a:hover,a:focus,a.active{
 }
 
 .background{
-  background-image: url(../images/slider/main.jpg);
-  /* background-image: url(../images/slider/lestora.png); */
+  /* background-image: url(../images/slider/main.jpg); */
+  background-image: url(../images/slider/lestora.png);
+}
+.background2{
+  background: url(../images/background/01.jpg) no-repeat center fixed;
 }
 
 /*====================================================================
@@ -784,6 +787,7 @@ ul#menu li a{
   border: 2px solid;
   border-color: transparent;
   margin: 10px 20px;
+  height: 90%;
 }
 .service_one:hover{
   border: 2px solid;
