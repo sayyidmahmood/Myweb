@@ -1,13 +1,3 @@
-//====================================================================================
-  
-//    Template Name: Runaway - Personal Portfolio HTML Template
-//    Version: 2.1.1
-//    Author: themetrading
-//    Email: themetrading@gmail.com
-//    Developed By: themetrading
-//    First Release: 08 February 2019
-//    Author URL: www.themetrading.com
-
 //=====================================================================================
  
 //  01.   Preloader For Hide loader
@@ -279,6 +269,9 @@ if($contact.length){
         subject: {
           required: true
         },
+        phone: {
+          required: true
+        },
         message: {
           required: true
         }
@@ -288,6 +281,7 @@ if($contact.length){
                 name: "Please enter your First Name", //Write here your error message that you want to show in contact form
                 email: "Please enter valid Email", //Write here your error message that you want to show in contact form
                 subject: "Please enter your Subject", //Write here your error message that you want to show in contact form
+                phone: "Please enter your Phone Number", //Write here your error message that you want to show in contact form
                 message: "Please write your Message" //Write here your error message that you want to show in contact form
             },
 
