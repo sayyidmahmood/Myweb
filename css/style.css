@@ -396,8 +396,8 @@ a:hover,a:focus,a.active{
   background-image: url(../images/slider/05.jpg);
 }
 .background5{
-  background-image: url(../images/slider/06.jpg);
-  /* background-image: url(../images/slider/main.jpg); */
+  /* background-image: url(../images/slider/06.jpg); */
+  background-image: url(../images/slider/main.jpg);
 }
 .background6{
     background-image: url(../images/footer.png);
