@@ -726,7 +726,7 @@ ul#menu li a{
 }
 .prgs-bar > span{
   font-weight: 600;
-  text-transform: uppercase
+  /* text-transform: uppercase */
 }
 .skill-progress .progress{
   margin: 5px 0 20px;
