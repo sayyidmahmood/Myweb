@@ -67,7 +67,11 @@
     border: 1px solid #2caae1;
     color: #2caae1
   }
-  
+  .btn-outline-github {
+    border: 1px solid #ffffff;
+    color: #2caae1
+  }
+ 
   .btn-outline-dribbble {
     border: 1px solid #ea4c89;
     color: #ea4c89
@@ -88,6 +92,10 @@
     color: #ffffff
   }
   
+  .btn-outline-github:hover {
+    background: #040204;
+    color: #ffffff
+  }
   
   .btn-outline-linkedin:hover {
     background: #0177b5;
